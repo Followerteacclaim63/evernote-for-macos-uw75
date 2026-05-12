@@ -1,4 +1,4 @@
-#  
+#  top Evernote for macOS Script | version history + quick search is the best Evernote for macOS script, featuring version history and quick search. Safe, efficient, and optimized
 
 
 
